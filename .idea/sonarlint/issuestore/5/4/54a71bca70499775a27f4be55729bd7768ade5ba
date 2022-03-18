@@ -1,0 +1,16 @@
+
+U
+java:S1161":Add the "@Override" annotation above this method signature(¸¢êÓıÿÿÿÿ
+S	java:S106T"9Replace this use of System.out or System.err by a logger.(ƒãâ‘úÿÿÿÿ
+J
+java:S2864U"4Iterate over the "entrySet" instead of the "keySet".(–°äø
+S	java:S106V"9Replace this use of System.out or System.err by a logger.(ÿĞ›Šÿÿÿÿÿ
+N	java:S106Y"9Replace this use of System.out or System.err by a logger.(Çá¬½
+J
+java:S2864\"4Iterate over the "entrySet" instead of the "keySet".(–°äø
+N	java:S106_"9Replace this use of System.out or System.err by a logger.(ãÄ¡ò
+S	java:S106a"9Replace this use of System.out or System.err by a logger.(Ñƒ¨şÿÿÿÿ
+J
+java:S2864b"4Iterate over the "entrySet" instead of the "keySet".(–°äø
+N	java:S106c"9Replace this use of System.out or System.err by a logger.(ğàĞÉ
+S	java:S106e"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ

@@ -1,0 +1,7 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Úˆéôıÿÿÿÿ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(ÌíÄ—øÿÿÿÿ
+V	java:S125#"<This block of commented-out lines of code should be removed.(İ”‰–şÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(§Ùóáşÿÿÿÿ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ç’Òâ

@@ -1,0 +1,13 @@
+
+O	java:S106˜"9Replace this use of System.out or System.err by a logger.(ÃëÆĞ
+T	java:S106™"9Replace this use of System.out or System.err by a logger.(¸ÿ—ûÿÿÿÿ
+J
+java:S2864œ"4Iterate over the "entrySet" instead of the "keySet".(®Ù«j
+T	java:S106"9Replace this use of System.out or System.err by a logger.(›—˜Şıÿÿÿÿ
+P
+java:S2864Ÿ"4Iterate over the "entrySet" instead of the "keySet".(ôîòÉúÿÿÿÿ
+[	java:S106 "9Replace this use of System.out or System.err by a logger.(¢àÇüÿÿÿÿ8ìğÙ¹ë/
+C
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX
+‡
+java:S1319“"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ø‹‚è
